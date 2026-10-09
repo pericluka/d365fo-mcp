@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.env
+.env.*
+*.pem
+.login-test-token.json
+test
+scripts
+evals
